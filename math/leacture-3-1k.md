@@ -43,7 +43,7 @@ a x b, [a, b]
 ![img](https://sun9-44.userapi.com/impg/hDRS8mtpg-w9dR9qcRsIQBU_IpfeWqJBxpoNGg/LeyKKP15rAs.jpg?size=1280x207&quality=96&sign=a1ca18dba375c370df22f2721c8a1937&type=album)
 
 2) Нахождение площади параллелограмма или треугольника
-![img](https://sun9-65.userapi.com/impg/X00lMqummTl50a4FMpTRBGMaXJ1sz4KcsuaWuA/d5WR_imnk30.jpg?size=1280x415&quality=96&sign=5ed4a93cbac4aed67f0c66246e862d6e&type=album)
+![img](https://sun9-65.userapi.com/impg/X00lMqummTl50a4FMpTRBGMaXJ1sz4KcsuaWuA/d5WR_imnk30.jpg?size=1280x415&quality=96&sign=5ed4a93cbac4aed67f0c66246e862d6e&type=album) 
 
 Пример:
 
