@@ -136,3 +136,19 @@ x->x0  g(x)     lim  g(x)
 ![img](https://sun9-75.userapi.com/impg/moIANiYpaxtclyxEcY2FL6BRHz_6dO8yiooq6g/mahSLXWUTVk.jpg?size=1125x514&quality=96&sign=3dd702a86d9f5ba6f78cffe197122b80&type=album)
 
 ![img](https://sun9-47.userapi.com/impg/s8F_-RqpHbb0Rwqd6s4xmQV4l9uO9plj5Kgy1w/pRjeHrx___A.jpg?size=754x469&quality=96&sign=8684696a88e226383d8a31e0a2c25165&type=album)
+
+## Практическая часть. Пределы
+
+![img](https://sun9-85.userapi.com/impg/iU6TdN52WPj9oA8k5hqPjX8EAgMM02wBPkXvkw/fD5kaChXBwY.jpg?size=1280x720&quality=96&sign=f2698bb37aa1b55f2307dd43bd737616&type=album)
+
+![img](https://sun9-9.userapi.com/impg/ZP30i_cdA6yvLkQooyC8jyBHMn-_ULTtJ-eu_A/KOBL8PlgE-0.jpg?size=838x480&quality=96&sign=3f427fcd4178c2f2efb89804e3ccbd0c&type=album)
+
+![img](https://sun9-69.userapi.com/impg/9yGlMU6SwtqXVVoP__SykkG811lYvtJqoZTOfg/9nzmagRgElQ.jpg?size=863x454&quality=96&sign=68392b12184bc116c4a7a19ee9fd4bd4&type=album)
+
+![img](https://sun9-32.userapi.com/impg/BR3WBa_-VpRlo2ttMvhl2yEBNT4w4FyjKWMLYw/iIzrWwbEsxk.jpg?size=865x468&quality=96&sign=aeba1b5122ba5e97c94b80de3b1c59bc&type=album)
+
+![img](https://sun9-44.userapi.com/impg/RZC2AeTc6g5w8zByZn2nv0s2bpqkVNZqJjHBnA/y8_5xQRBtAs.jpg?size=755x399&quality=96&sign=c932abde6785f4ddf57c381d2145f65b&type=album)
+
+![img](https://sun9-16.userapi.com/impg/wsO5tg7AuYg7wK_v9eCIQTnJpOZdSMhC0ZB30g/0dZrF3Y_g-s.jpg?size=757x393&quality=96&sign=09e86e442d6e27303153e033304a961d&type=album)
+
+![img](https://sun9-34.userapi.com/impg/gLkpzx53R5PUFJ5_G0olECQ79sHPMCZxErbQkQ/cWTHGafXICY.jpg?size=753x388&quality=96&sign=40ed9a2e973078e01ca3e0767f8b45e6&type=album)
