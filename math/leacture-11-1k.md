@@ -182,6 +182,8 @@ F(x; y) = 0
 
 Производные порядка выше первого называются **производными высших порядков**
 
+![img](https://sun9-27.userapi.com/impg/1FwM2I40QGTMxPjqg1qWC3Ok-STp8jI2xEBtFA/qlLH5YebwtI.jpg?size=613x551&quality=96&sign=685e141bc32a5fe2df1d51ac21705562&type=album)
+
 ## 1.11 Дифференциал функции
 
 Пусть функция y = f(x) имеет в точке х0 отличную от нуля производную:
@@ -211,3 +213,5 @@ dy = f'(x)dx
 Следовательно, dy/dx = f'(x)
 
 т.е. значение производной равно отношению дифференциалов
+
+![img](https://sun9-24.userapi.com/impg/gOa_GFFfwk-1p0qbcmGPnotCPYS3HQ8It3J4zQ/4YIIfFZBBiY.jpg?size=707x736&quality=96&sign=af143346dc3f0fc4ca31e1f38e4b8dde&type=album)
